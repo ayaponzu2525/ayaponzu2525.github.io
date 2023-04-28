@@ -34,3 +34,5 @@ categories:
 [Yahho! JAPAN](https://www.yahoo.co.jp/)
 
 ![稲作](/assets/images/nawmin-2-1.webp)
+
+[![ピカチュウ](/assets/images/042855_P_PIKACHIXYUU.jpg)](https://www.pokemon.co.jp/)
