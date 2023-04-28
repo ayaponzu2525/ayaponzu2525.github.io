@@ -32,3 +32,5 @@ categories:
 あいうえお
 
 [Yahho! JAPAN](https://www.yahoo.co.jp/)
+
+![稲作](/assets/images/nawmin-2-1.webp)
