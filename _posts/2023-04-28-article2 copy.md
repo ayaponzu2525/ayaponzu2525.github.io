@@ -30,3 +30,5 @@ categories:
 
 半角スペースが2つで改行を意味する。スペース2つ打った⇒  
 あいうえお
+
+[Yahho! JAPAN](https://www.yahoo.co.jp/)
