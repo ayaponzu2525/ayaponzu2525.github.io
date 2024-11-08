@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "webrick"  # これが重要
-gem "eventmachine", "1.2.7"  # これを追加
+gem "eventmachine", "1.2.7"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -11,3 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
 end
+
+# webrickのバージョンを指定
+gem "webrick", "1.9.0"
