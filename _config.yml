@@ -1,5 +1,7 @@
 # Site settings
+# このファイルはdocker compose up やりなおさないとできない
 title: What's up! ayaponzuです！
+navtitle: What's up!
 email: ayaponzu200525@gmail.com
 # GitHub Pages用のURLを設定
 url: "https://ayaponzu2525.github.io"
@@ -7,7 +9,9 @@ url: "https://ayaponzu2525.github.io"
 baseurl: ""
 description: "ソフトウェアエンジニア志望の専門学生のポートフォリオサイト IT系専門学生"
 keywords: "your keywords, separated by commas"
-skills: "プログラム - ギター - テニス - ゲーム"
+programskills: "Python・C・C++・C#・HTML・CSS・Javascript・PHP"
+skills: "AI・電気工事"
+hobby: "guitar - tennis - game"
 meta_author: LastName FirstName
 
 # 以下は変更なし
@@ -25,28 +29,28 @@ color:
 
 # 以下は変更なし
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: ayaponzu
+  location: Japan
   social: Around the Web
   credits: Credits
 
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: "https://github.com/ayaponzu2525"
 
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
