@@ -71,3 +71,6 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+locale: ja_JP
+og_img: img/ogp/defalut.png
